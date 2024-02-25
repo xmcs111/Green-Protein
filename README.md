@@ -12,6 +12,9 @@ Available on the Obsidian theme store.(暂无)
 
 ### *Manually*
 Download Green Protein.css and manifest.json files from latest release
+
 Go to /your_vault/.obsidian/themes/ and create folder for theme files
+
 Paste downloaded theme files into created folder
+
 In Obsidian go to Settings -> Appearance -> select Green Protein theme in dropdown menu
